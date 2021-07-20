@@ -19,6 +19,8 @@ I am _passionate about_:
 
 - Video games like BoTW as shown on <https://www.theverge.com/2017/3/2/14787082/the-legend-of-zelda-breath-of-the-wild-review>
 
+
+![HW 2 Screenshot](table-repo.PNG)
 ***
 
 > Last modified: 2021/07/20
