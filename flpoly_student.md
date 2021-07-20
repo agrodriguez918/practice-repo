@@ -4,11 +4,10 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Intro to Data Science
-
-- Calculus 1
-
-
+|Summer B Classes        |Course Number        |
+|:-----------------------|:--------------------|
+|_Intro to Data Science_ |**COP 2073**         |
+|_Calc 1 Support_        |**NA**               |
 
 **Hobbies:**
 
@@ -22,4 +21,4 @@ I am _passionate about_:
 
 ***
 
-> Last modified: 2021/07/11
+> Last modified: 2021/07/20
