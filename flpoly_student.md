@@ -1,27 +1,25 @@
-## First Name Last Name
+## Amanda Rodriguez
 
-### Term Year 
+### Summer B 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Intro to Data Science
 
-- Course 2
+- Calculus 1
 
-- Course 3
 
-- Course 4
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- My friends
 
-- Thing 2
+- Music :)
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Video games like BoTW as shown on <https://www.theverge.com/2017/3/2/14787082/the-legend-of-zelda-breath-of-the-wild-review>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/07/11
